@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/human/Desktop/mlops_sam/src/mlruns/1/e65c76e89e194341b979b77a533d2ef5/artifacts
+end_time: 1658122177041
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e65c76e89e194341b979b77a533d2ef5
+run_uuid: e65c76e89e194341b979b77a533d2ef5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1658122173727
+status: 3
+tags: []
+user_id: human

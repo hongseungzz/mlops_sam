@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/human/Desktop/mlops_sam/src/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: human_sklearn_experiment
